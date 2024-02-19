@@ -1,31 +1,21 @@
 # 💫 About Me:
-👋 **Hey there! I'm Basharul Alam Mazu**
-
-<br>
+## 👋 Hey there! I'm Basharul Alam Mazu
 
 I'm a Computer Science and Engineering student at the American International University Bangladesh, passionate about technology, software testing, and exploring the world of code. Currently, I'm diving into the realm of content creation.
 
-<br>
-
-💡 **Fun Fact:**
+### 💡 Fun Fact:
 I proudly call myself smartly lazy - always finding the most efficient way to get things done. Automation is my secret weapon!
 
-<br>
-
-🔧 **Tech Stack:**
-- Programming Languages: Python, Java, C/C++, C#, SQL
-
-<br>
+### 🔧 Tech Stack:
+- **Programming Languages:** Python, Java, C/C++, C#
+- **Development Tools:** Git, Jupyter Notebook
+- **Data Management:** SQL
+- **Mathematics and Statistics:** Linear Algebra, Probability, Statistics
+- **Data Visualization:** Matplotlib, Seaborn
 
 Let's code something amazing together! 💻✨
 
-<br>
-
 ---
-
-<br>
-Feel free to let me know if there are any other changes or additions you'd like to make!
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=green)](https://facebook.com/https://www.facebook.com/basharulalammazu/) 
@@ -50,7 +40,6 @@ Feel free to let me know if there are any other changes or additions you'd like 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=basharul2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -61,4 +50,3 @@ Feel free to let me know if there are any other changes or additions you'd like 
 [![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
