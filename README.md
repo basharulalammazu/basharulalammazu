@@ -19,6 +19,7 @@ Let's code something amazing together! 💻✨
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/basharulalammazu/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basharul-alam-mazu-361464267/) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25FF0000.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801813890622)
 
 <br>
 
