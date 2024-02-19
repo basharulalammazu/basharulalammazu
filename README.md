@@ -48,7 +48,7 @@ Feel free to let me know if there are any other changes or additions you'd like 
 ![](https://github-readme-stats.vercel.app/api?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
