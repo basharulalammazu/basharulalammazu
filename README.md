@@ -38,7 +38,6 @@ Let's code something amazing together! 💻✨
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
-![](https://profile-counter.glitch.me/basharul2002/count.svg)
 
 
 ## 🏆 GitHub Trophies
