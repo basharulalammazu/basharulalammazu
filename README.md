@@ -1,5 +1,5 @@
-# 💫 About Me:
 ## 👋 Hey there! I'm Basharul Alam Mazu
+# 💫 About Me:
 
 I'm a Computer Science and Engineering student at the American International University Bangladesh, passionate about technology, software testing, and exploring the world of code. Currently, I'm diving into the realm of content creation.
 
