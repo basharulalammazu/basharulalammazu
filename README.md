@@ -1,27 +1,28 @@
 # 💫 About Me:
-👋 **Hey there! I'm Basharrul Alam Mazu**
+👋 **Hey there! I'm Basharul Alam Mazu**
 
-<br>
 <br>
 
 I'm a Computer Science and Engineering student at the American International University Bangladesh, passionate about technology, software testing, and exploring the world of code. Currently, I'm diving into the realm of content creation.
 
 <br>
-<br>
 
-💡 **Fun Fact:**<br>I proudly call myself smartly lazy - always finding the most efficient way to get things done. Automation is my secret weapon!
+💡 **Fun Fact:**
+I proudly call myself smartly lazy - always finding the most efficient way to get things done. Automation is my secret weapon!
 
-<br>
 <br>
 
 🔧 **Tech Stack:**
-<br>
-- Programming Languages: Python, Java, C/C++, C#, SQL<br><br>Let's code something amazing together! 💻✨
+- Programming Languages: Python, Java, C/C++, C#, SQL
 
 <br>
+
+Let's code something amazing together! 💻✨
+
 <br>
+
 ---
-<br>
+
 <br>
 Feel free to let me know if there are any other changes or additions you'd like to make!
 
