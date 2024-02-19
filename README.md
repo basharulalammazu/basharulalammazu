@@ -8,10 +8,9 @@ I proudly call myself smartly lazy - always finding the most efficient way to ge
 
 ### 🔧 Tech Stack:
 - **Programming Languages:** Python, Java, C/C++, C#
-- **Development Tools:** Git, Jupyter Notebook
+- **Development Tools:** Git
 - **Data Management:** SQL
 - **Mathematics and Statistics:** Linear Algebra, Probability, Statistics
-- **Data Visualization:** Matplotlib, Seaborn
 
 Let's code something amazing together! 💻✨
 
