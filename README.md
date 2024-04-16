@@ -35,7 +35,6 @@ Let's code something amazing together! 💻✨
 
 ---
 
-<br>
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -52,8 +51,6 @@ Let's code something amazing together! 💻✨
 
 ---
 
-<br>
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
@@ -61,8 +58,6 @@ Let's code something amazing together! 💻✨
 ![](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
 ---
-
-<br>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=basharul2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
