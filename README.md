@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=basharul2002.basharul2002" />
+<div align="right">
+    [![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basharul+Alam+Mazu!;" />
@@ -61,6 +64,6 @@ Let's code something amazing together! 💻✨
 ![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
