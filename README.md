@@ -7,7 +7,6 @@
 
 
 # 💫 About Me
-
 I'm a Computer Science and Engineering student, passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards with tools like Tableau and Power BI..
 
 ### 💡 Fun Fact:
