@@ -1,12 +1,11 @@
-<div align="right">
-    [![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basharul+Alam+Mazu!;" />
 </h1>
 
+<
+    <[![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1 align = "center">💫 About Me </h1>
 
@@ -63,7 +62,4 @@ Let's code something amazing together! 💻✨
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
