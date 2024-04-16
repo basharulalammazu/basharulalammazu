@@ -3,7 +3,11 @@
     <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
         <img src="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0"  align="right"/>
     </a>
+    <a href="https://github.com/basharul2002">
+        <img src="https://komarev.com/ghpvc/?username=basharul2002&color=blueviolet" alt="Profile Views" />
+    </a>
 </p>
+
 
 
 
