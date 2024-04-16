@@ -10,7 +10,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-#💫 About Me
+# 💫 About Me
 
 I'm a Computer Science and Engineering student, passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards with tools like Tableau and Power BI..
 
@@ -27,14 +27,14 @@ Let's code something amazing together! 💻✨
 
 ---
 
-#🌐 Socials
+# 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/basharulalammazu/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basharul-alam-mazu-361464267/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25FF0000.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801813890622)
 
 <br>
 
-#💻 Tech Stack
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -49,7 +49,7 @@ Let's code something amazing together! 💻✨
 
 <br>
 
-#📊 GitHub Stats
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
