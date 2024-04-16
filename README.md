@@ -33,6 +33,8 @@ Let's code something amazing together! 💻✨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basharul-alam-mazu-361464267/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25FF0000.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801813890622)
 
+---
+
 <br>
 
 # 💻 Tech Stack
@@ -48,6 +50,8 @@ Let's code something amazing together! 💻✨
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
+
 <br>
 
 # 📊 GitHub Stats
@@ -56,10 +60,14 @@ Let's code something amazing together! 💻✨
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://activity-graph.herokuapp.com/graph?username=basharul2002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
 
+---
+
 <br>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=basharul2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 # 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
