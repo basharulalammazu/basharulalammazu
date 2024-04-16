@@ -5,8 +5,7 @@
 </h1>
 
 
-## 👋 Hey there! I'm Basharul Alam Mazu
-# 💫 About Me:
+<h1 align = "center"># 💫 About Me </h1>
 
 I'm a Computer Science and Engineering student, passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards with tools like Tableau and Power BI..
 
@@ -30,7 +29,7 @@ Let's code something amazing together! 💻✨
 
 <br>
 
-# 💻 Tech Stack:
+<h1 align = "center"># 💻 Tech Stack </h1>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -45,7 +44,7 @@ Let's code something amazing together! 💻✨
 
 <br>
 
-# 📊 GitHub Stats:
+<h1 align = "center"># 📊 GitHub Stats</h1>
 ![](https://github-readme-stats.vercel.app/api?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
