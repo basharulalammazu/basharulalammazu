@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=basharul2002.basharul2002" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Basharul2002.Basharul2002" />
 ## 👋 Hey there! I'm Basharul Alam Mazu
 # 💫 About Me:
 
