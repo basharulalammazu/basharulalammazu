@@ -5,7 +5,7 @@
 </h1>
 
 
-<h1 align = "center"># 💫 About Me </h1>
+<h1 align = "center">💫 About Me </h1>
 
 I'm a Computer Science and Engineering student, passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards with tools like Tableau and Power BI..
 
@@ -45,7 +45,8 @@ Let's code something amazing together! 💻✨
 
 <br>
 
-<h1 align = "center"># 📊 GitHub Stats</h1>
+<h1 align = "center">📊 GitHub Stats</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -60,6 +61,6 @@ Let's code something amazing together! 💻✨
 ![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
