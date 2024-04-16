@@ -58,8 +58,8 @@ Let's code something amazing together! 💻✨
 
 <br>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=basharul2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repositories
+# 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
