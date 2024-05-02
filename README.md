@@ -3,6 +3,10 @@
     <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square" alt="Profile Views" />
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 
 
 <p align="center">
