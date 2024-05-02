@@ -2,9 +2,12 @@
     <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
 </p>
 
- <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
+<p>
+     <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
         <img src="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0" align="right"/>
     </a>
+</p>
+
 
     <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views&labelColor=ffffff" alt="Profile Views" />
 
