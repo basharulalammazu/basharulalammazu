@@ -1,24 +1,12 @@
-<p align="center">
+<p align="right">
     <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p>
-     <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
-        <img src="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0" align="right"/>
-    </a>
-</p>
-
-
-    <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views&labelColor=ffffff" alt="Profile Views" />
-
-
-
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basharul+Alam+Mazu!;" />
-    <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
-        <img src="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0" align="right"/>
-    </a>
+    <div align = right>
+        <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+    </div>
 </p>
 
 
