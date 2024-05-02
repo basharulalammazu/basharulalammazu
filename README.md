@@ -1,3 +1,10 @@
+    
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square" alt="Profile Views" />
+</p>
+
+
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Basharul+Alam+Mazu!;" />
     <a href="https://visitcount.itsvg.in/api?id=basharul2002&icon=0&color=0">
