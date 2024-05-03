@@ -14,7 +14,7 @@ I'm a Computer Science and Engineering student, passionate about developing mach
 I proudly call myself smartly lazy - always finding the most efficient way to get things done. Automation is my secret weapon!
 
 ### 🔧 Tech Stack:
-- **Programming Languages:** Python, Java, C/C++, C#
+- **Programming Languages:** Python, Java, C/C++, C#, .NET
 - **Development Tools:** Git
 - **Data Management:** SQL
 - **Mathematics and Statistics:** Linear Algebra, Probability, Statistics
