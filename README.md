@@ -19,6 +19,7 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 ### 🚀 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
@@ -64,12 +65,8 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 ---
 
 <!-- Footer -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<footer style="background-color: #f0f0f0; padding: 10px;">
-    <p align="center" style="font-size: 0.8em; color: #6e5494; margin: 0;">
-        <i>Proudly crafted with <span style="color: #ff69b4;">&hearts;</span> and Markdown</i>
+<footer style="background-color: #f0f0f0; padding: 20px; text-align: center; margin-top: 30px;">
+    <p style="font-size: 0.9em; color: #6e5494; margin-bottom: 5px;" align = "center">
+        <i>Proudly crafted with <span style="color: #ff69b4; font-size: 1.2em;">&hearts;</span> and Markdown</i>
     </p>
 </footer>
-
-
-
