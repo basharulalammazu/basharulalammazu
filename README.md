@@ -6,7 +6,6 @@
 <!-- Typing Animation -->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Basharul+Alam+Mazu!;" />
-</p>
 
 <!-- About Me Section -->
 # 👨‍💻 About Me
@@ -43,6 +42,11 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 [![Website](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://basharul2002.github.io/)
 
 ---
+
+<!-- GitHub Roll Section -->
+# 🌟 GitHub Roll Badge
+[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3)](https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3)
+
 
 <!-- GitHub Stats Section -->
 # 📈 GitHub Stats
