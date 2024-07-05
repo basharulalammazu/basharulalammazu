@@ -1,0 +1,37 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule: # Runs every day at midnight
+    - cron: '0 0 * * *'
+  push: # Trigger the workflow on push to the main branch
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: basharul2002
+          THEME: solarized
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m 'Update Profile Summary Cards'
+          git push
