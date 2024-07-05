@@ -1,37 +1,69 @@
-name: Generate Profile Summary Cards
+name: Profile Summary Card
 
 on:
-  schedule: # Runs every day at midnight
-    - cron: '0 0 * * *'
-  push: # Trigger the workflow on push to the main branch
-    branches:
-      - main
-  workflow_dispatch:
+  push:
+    branches-ignore: [ release ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-  build:
+  tests:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Collect Workflow Telemetry
+      uses: catchpoint/foresight-workflow-kit-action@v1
+      if: success() || failure()
+      with:
+        api_key: ${{ secrets.foresight_api_key }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '14'
+    - uses: actions/checkout@v4
+    - name: Use Node.js 20
+      uses: actions/setup-node@v4
+      with:
+        node-version-file: '.node-version'
+        cache: 'npm'
+    - run: npm install
+    - run: npm run test
 
-      - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: basharul2002
-          THEME: solarized
+    - name: Analyze Test and/or Coverage Results
+      uses: catchpoint/foresight-test-kit-action@v1
+      if: success() || failure()
+      with:
+        api_key: ${{ secrets.foresight_api_key }}
+        test_format: JUNIT
+        test_framework: JEST
+        test_path: ./junit.xml
+        coverage_format: JACOCO/XML
+        coverage_path: ./coverage
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m 'Update Profile Summary Cards'
-          git push
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js 20
+      uses: actions/setup-node@v4
+      with:
+        node-version-file: '.node-version'
+        cache: 'npm'
+    - run: npm install
+    - run: npm run lint
+
+  generate-summary-card:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Generate profile summary cards
+      uses: vn7n24fzkq/github-profile-summary-cards@release
+      with:
+        username: basharul2002
+        output_folder: profile-summary-card-output
+
+    - name: Commit and push summary cards
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add profile-summary-card-output
+        git commit -m 'Generate profile summary cards'
+        git push
