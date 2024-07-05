@@ -56,7 +56,7 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=blueberry)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact)
 
