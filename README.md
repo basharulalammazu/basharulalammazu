@@ -73,7 +73,7 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 <!-- Top Repositories Section -->
 # 🔝 Top Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 ---
 
