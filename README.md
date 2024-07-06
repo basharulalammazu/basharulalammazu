@@ -46,7 +46,9 @@ I proudly call myself "smartly lazy" - always finding the most efficient way to 
 
 <!-- GitHub Roll Section -->
 # 🌟 GitHub Roll Badge
-[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry)](https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3)
+<a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry" alt="GitRoll Profile Badge" width="710" height="390">
+</a>
 
 
 
