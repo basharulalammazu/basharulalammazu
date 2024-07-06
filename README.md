@@ -10,7 +10,7 @@
 
 <!-- About Me Section -->
 <h1>👨‍💻 About Me</h1>
-<p>I'm Basharul Alam Mazu, a Computer Science and Engineering student passionate about developing machine learning models <br>for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
+<p>I'm Basharul Alam Mazu, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
 
 <h3>💡 Fun Fact:</h3>
 <p>I proudly call myself "smartly lazy" - always finding the most efficient way to get things done. Automation is my secret weapon!</p>
@@ -71,12 +71,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="420" />
 </div>
 <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="422" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="422" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="420" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="420" />
 </div>
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=blueberry" alt="GitHub Streak" width="490" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact" alt="Top Languages" width="355" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact" alt="Top Languages" width="350" />
 </div>
 </div>
 
