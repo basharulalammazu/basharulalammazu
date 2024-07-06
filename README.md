@@ -55,7 +55,7 @@
 <!-- GitHub Roll Section -->
 <h1>🌟 GitHub Roll Badge</h1>
 <a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="744" height="450">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="844" height="450">
 </a>
 
 <hr>
