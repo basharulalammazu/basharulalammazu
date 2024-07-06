@@ -67,8 +67,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharul2002&theme=blueberry" alt="GitHub Profile Details" width="844" />
 </div>
 <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="422" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="422" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="420" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="420" />
 </div>
 <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="422" />
