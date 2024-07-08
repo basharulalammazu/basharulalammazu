@@ -9,14 +9,14 @@
 </p>
 
 <!-- About Me Section -->
-<h1>👨‍💻 About Me</h1>
-<p>I'm Basharul Alam Mazu, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
+<h1 align="center">👨‍💻 About Me</h1>
+<p align="center">I'm Basharul Alam Mazu, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
 
-<h3>💡 Fun Fact:</h3>
-<p>I proudly call myself "smartly lazy" - always finding the most efficient way to get things done. Automation is my secret weapon!</p>
+<h3 align="center">💡 Fun Fact:</h3>
+<p align="center">I proudly call myself "smartly lazy" - always finding the most efficient way to get things done. Automation is my secret weapon!</p>
 
-<h3>🚀 Tech Stack:</h3>
-<p>
+<h3 align="center">🚀 Tech Stack:</h3>
+<p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
     <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></a>
@@ -37,8 +37,8 @@
 <hr>
 
 <!-- Social Media Section -->
-<h1>🌐 Connect with Me</h1>
-<p>
+<h1 align="center">🌐 Connect with Me</h1>
+<p align="center">
     <a href="https://www.linkedin.com/in/basharul-alam-mazu-361464267/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 90px; height: auto;" />
     </a>
@@ -53,58 +53,54 @@
 <hr>
 
 <!-- GitHub Roll Section -->
-<h1>🌟 GitHub Roll Badge</h1>
-<a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="844" height="450">
-</a>
+<h1 align="center">🌟 GitHub Roll Badge</h1>
+<p align="center">
+    <a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
+        <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="90%" style="max-width: 1000px;">
+    </a>
+</p>
 
 <hr>
 
 <!-- GitHub Stats Section -->
-<h1>📈 GitHub Stats</h1>
-<div>
-<div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharul2002&theme=blueberry" alt="GitHub Profile Details" width="844" />
-</div>
-<div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="420" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="420" />
-</div>
-<div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="420" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="420" />
-</div>
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=blueberry" alt="GitHub Streak" width="490" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact" alt="Top Languages" width="350" />
-</div>
-</div>
-
+<h1 align="center">📈 GitHub Stats</h1>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharul2002&theme=blueberry" alt="GitHub Profile Details" width="90%" style="max-width: 844px;" />
+</p>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="45%" style="max-width: 420px;" />
+</p>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="45%" style="max-width: 420px;" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=blueberry" alt="GitHub Streak" width="55%" style="max-width: 490px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact" alt="Top Languages" width="40%" style="max-width: 350px;" />
+</p>
 
 <hr>
 
 <!-- GitHub Trophies Section -->
-<h1>🏆 GitHub Trophies</h1>
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=basharul2002&theme=onedark" alt="GitHub Trophies" />
+<h1 align="center">🏆 GitHub Trophies</h1>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=basharul2002&theme=onedark" alt="GitHub Trophies" width="90%" style="max-width: 1000px;" />
 </p>
 
 <hr>
 
 <!-- Top Repositories Section -->
-<h1>🔝 Top Repositories</h1>
-<p>
-    <img src="https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Repositories width = "744" />
+<h1 align="center">🔝 Top Repositories</h1>
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Repositories" width="90%" style="max-width: 1000px;" />
 </p>
 
 <hr>
 
 <!-- Footer -->
 <footer style="background-color: #f0f0f0; padding: 20px; text-align: center; margin-top: 30px;">
-    <p style="font-size: 0.9em; color: #6e5494; margin-bottom: 5px;" align="center">
+    <p style="font-size: 0.9em; color: #6e5494; margin-bottom: 5px;">
         <i>Proudly crafted with <span style="color: #ff69b4; font-size: 1.2em;">&hearts;</span> and Markdown</i>
     </p>
 </footer>
-
-
-
