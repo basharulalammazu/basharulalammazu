@@ -99,8 +99,11 @@
 <hr>
 
 <!-- Footer -->
-<footer style="background-color: #f0f0f0; padding: 20px; text-align: center; margin-top: 30px;">
-    <p style="font-size: 0.9em; color: #6e5494; margin-bottom: 5px;">
-        <i>Proudly crafted with <span style="color: #ff69b4; font-size: 1.2em;">&hearts;</span> and Markdown</i>
-    </p>
-</footer>
+<!-- Typing Animation with Static Heart (Simulated Animation) -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&lines=Proudly+crafted+with+❤️;and+Markdown;Proudly+crafted+with+💖;and+Markdown;Proudly+crafted+with+💗;and+Markdown;Proudly+crafted+with+❤️;and+Markdown" />
+</p>
+
+
+
+
