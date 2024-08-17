@@ -57,7 +57,7 @@
 <h1 align="center">🌟 GitHub Roll Badge</h1>
 <p align="center">
     <a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
-        <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=<%= new Date().getTime() %>" alt="GitRoll Profile Badge" width="90%" style="max-width: 1000px;">
+        <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="90%" style="max-width: 1000px;">
     </a>
 </p>
 <hr>
