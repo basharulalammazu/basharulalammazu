@@ -11,7 +11,7 @@
 
 <!-- About Me Section -->
 <h1 align="center">👨‍💻 About Me</h1>
-<p align="center">I'm Basharul Alam Mazu, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
+<p align="center">I'm Basharul-Alam-Mazu, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
 
 <h3 align="center">💡 Fun Fact:</h3>
 <p align="center">I proudly call myself "smartly lazy" - always finding the most efficient way to get things done. Automation is my secret weapon!</p>
