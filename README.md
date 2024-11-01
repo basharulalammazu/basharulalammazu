@@ -66,19 +66,19 @@
 <!-- GitHub Stats Section -->
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharul2002&theme=blueberry" alt="GitHub Profile Details" width="90%" style="max-width: 844px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basharulalammazu&theme=blueberry" alt="GitHub Profile Details" width="90%" style="max-width: 844px;" />
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="45%" style="max-width: 420px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharul2002&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basharulalammazu&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basharulalammazu&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="45%" style="max-width: 420px;" />
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharul2002&theme=blueberry" alt="GitHub Stats" width="45%" style="max-width: 420px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharul2002&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basharulalammazu&theme=blueberry" alt="GitHub Stats" width="45%" style="max-width: 420px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharulalammazu&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="45%" style="max-width: 420px;" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharul2002&theme=blueberry" alt="GitHub Streak" width="55%" style="max-width: 490px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharul2002&theme=blueberry&layout=compact" alt="Top Languages" width="40%" style="max-width: 350px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharulalammazu&theme=blueberry" alt="GitHub Streak" width="55%" style="max-width: 490px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharulalammazu&theme=blueberry&layout=compact" alt="Top Languages" width="40%" style="max-width: 350px;" />
 </p>
 <hr>
 
@@ -86,7 +86,7 @@
 <!-- GitHub Trophies Section -->
 <h1 align="center">🏆 GitHub Trophies</h1>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=basharul2002&theme=onedark" alt="GitHub Trophies" width="90%" style="max-width: 1000px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=basharulalammazu&theme=onedark" alt="GitHub Trophies" width="90%" style="max-width: 1000px;" />
 </p>
 <hr>
 
@@ -94,7 +94,7 @@
 <!-- Top Repositories Section -->
 <h1 align="center">🔝 Top Repositories</h1>
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=basharul2002&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Repositories" width="90%" style="max-width: 1000px;" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=basharulalammazu&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Repositories" width="90%" style="max-width: 1000px;" />
 </p>
 <hr>
 
