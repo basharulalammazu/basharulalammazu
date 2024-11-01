@@ -1,6 +1,6 @@
 <!-- Title and Profile Views Badge -->
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=basharul2002&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=basharulalammazu&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <!-- Typing Animation -->
