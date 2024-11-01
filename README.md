@@ -46,7 +46,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=basharulalam6@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="width: 70px; height: auto;" />
     </a>
-    <a href="https://basharul2002.github.io/">
+    <a href="https://basharulalammazu.github.io/">
         <img src="https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Website" style="width: 85px; height: auto;" />
     </a>
 </p>
