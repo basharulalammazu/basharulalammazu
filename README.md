@@ -77,7 +77,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basharulalammazu&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="45%" style="max-width: 420px;" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharulalammazu&theme=blueberry" alt="GitHub Streak" width="55%" style="max-width: 490px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharulalammazu&theme=blueberry" alt="GitHub Streak" style="width: 55%; max-width: 490px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharulalammazu&theme=blueberry&layout=compact" alt="Top Languages" width="40%" style="max-width: 350px;" />
 </p>
 <hr>
