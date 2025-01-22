@@ -25,6 +25,7 @@
     <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /></a>
     <!-- Web Development -->
+    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
@@ -44,22 +45,14 @@
 </p>
 <hr>
 
-
-<!-- Social Media Section -->
+<!-- Connect Section -->
 <h1 align="center">🌐 Connect with Me</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/basharul-alam-mazu-361464267/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 90px; height: auto;" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=basharulalam6@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="width: 70px; height: auto;" />
-    </a>
-    <a href="https://basharulalammazu.github.io/">
-        <img src="https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Website" style="width: 85px; height: auto;" />
-    </a>
+    <a href="https://www.linkedin.com/in/basharul-alam-mazu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:basharulalam6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://basharulalammazu.github.io/"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website" /></a>
 </p>
 <hr>
-
 
 <!-- GitHub Roll Section -->
 <h1 align="center">🌟 GitHub Roll Badge</h1>
